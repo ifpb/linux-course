@@ -1,13 +1,13 @@
 # Usando a Linha de Comandos do Linux
 
-[\# 01 - Apresentação do MiniCurso](#-01---apresentacao-do-minicurso)
-[\# 02 - História do Linux](#-02---história-do-linux)
-[\# 03 - Distribuições e Interfaces](#-03---distribuições-e-interfaces)
-[\# 04 - Comandos Básicos](#-04---comandos-basicos)
-[\# 05 - Comandos Intermediários](#-05---comandos-intermediarios)
-[\# 06 - Comandos Avançados](#-06---comandos-avancados)
-[\# 07 - Instalação](#-07---instalacao)
-[\# 08 - Referências](#-08---referencias)
+[\# 01 - Apresentação do MiniCurso](#-01---apresentacao-do-minicurso);
+[\# 02 - História do Linux](#-02---história-do-linux);
+[\# 03 - Distribuições e Interfaces](#-03---distribuições-e-interfaces);
+[\# 04 - Comandos Básicos](#-04---comandos-basicos);
+[\# 05 - Comandos Intermediários](#-05---comandos-intermediarios);
+[\# 06 - Comandos Avançados](#-06---comandos-avancados);
+[\# 07 - Instalação](#-07---instalacao);
+[\# 08 - Referências](#-08---referencias);
 
 ---
 ## \# 01 - Apresentação do MiniCurso
@@ -15,7 +15,7 @@
 **Evento**: SECT IFPB 2018
 **Data**: 23 e 24 de outubro de 2018
 |Ministrante| Elionildo da Silva Menezes
-|-|-|
+|---|:---|
 |Monitor| Edson Luís Vieira de Almeida
 |Monitor| Lucas Carvallho
 |Monitor| Miguel Rodrigo Belarmino Cabral
